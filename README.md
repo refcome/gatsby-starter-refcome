@@ -7,6 +7,7 @@ our boilerplate⚡️
 Use the Gatsby CLI to create a new site, specifying the default starter.
 
 ```
+npm install -g gatsby-cli
 gatsby new new-gatsby-project https://github.com/refcome/gatsby-starter-refcome
 ```
 
